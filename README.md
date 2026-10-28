@@ -1,4 +1,4 @@
-# Stock Price Analyser
+# Stock Data Analyser
 
 A terminal-based stock market analyser built in C++ that simulates
 and analyses stock price data for multiple companies using core DSA
